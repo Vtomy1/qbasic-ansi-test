@@ -1,0 +1,6 @@
+{
+  "name": "QBasic ANSI Studio & Dither Converter",
+  "description": "Convert images to authentic MS-DOS QBasic source code, ANSI art (.ANS), and CP437 text with classic dithering algorithms, real-time CRT emulator, and QBasic loader samples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
